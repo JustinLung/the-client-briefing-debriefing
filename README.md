@@ -1,9 +1,9 @@
 # Debriefing - Ilojo Bar
-Team: Finn van Bekkum, Daan Korver, Justin Lung & Daphne Zwuup
-Datum: 28 september 2022
-Project: Ilojo Bar
-Opdrachtgever: Femke van Zeijl
-Versie: 1
+Team: Finn van Bekkum, Daan Korver, Justin Lung & Daphne Zwuup  
+Datum: 28 september 2022  
+Project: Ilojo Bar  
+Opdrachtgever: Femke van Zeijl  
+Versie: 1  
 
 ## 1. Contactgegevens
 - Femke van Zeijl, femke@fvz-journaliste.nl
